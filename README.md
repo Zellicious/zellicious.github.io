@@ -1,3 +1,6 @@
+[![gh-stats](https://github-readme-stats.vercel.app/api?username=Zellicious)](https://github.com/Zellicious/github-readme-stats)
+
+
 # about
 
 hi i am zellicious and i program sometimes for fun <br>
