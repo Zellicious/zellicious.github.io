@@ -1,11 +1,8 @@
-[![gh-stats](https://github-readme-stats.vercel.app/api?username=Zellicious)](https://github.com/anuraghazra/github-readme-stats)
-
-
 # about
 
-hi i am zellicious and i program sometimes for fun <br>
+hi i am ```zellicious``` and i program sometimes for ``fun`` <br>
 currently in senior highschool <br>
-southeast asian
+``southeast asian``
 
 ## what i do
 
