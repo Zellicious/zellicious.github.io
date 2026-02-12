@@ -1,10 +1,19 @@
-# about
+# About
 
-hi i am ```zellicious``` and i program sometimes for ``fun`` <br>
-currently in senior highschool <br>
-``southeast asian``
+Hey there, my name is Zellicious.
+</br>
+I usually do fun projects or save my projects on GitHub.
 
-## what i do
+----
 
-i program in love2d/lua in general <br>
-i sometimes program on roblox <br>
+## What I do
+
+* Make some experimental/fun projects
+* Save those projects
+* Thats it.
+
+----
+
+## Top project
+
+[zbox](https://github.com/Zellicious/zbox)
