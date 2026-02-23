@@ -1,0 +1,8 @@
+title: Zellicious
+description: GitHub page for Zellicious
+url: "https://zellicious.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
