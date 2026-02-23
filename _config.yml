@@ -4,5 +4,8 @@ url: "https://zellicious.github.io"
 
 theme: minima
 
+minima:
+  skin: dark
+
 plugins:
   - jekyll-feed
