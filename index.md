@@ -1,4 +1,3 @@
-##
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
@@ -9,10 +8,8 @@
 </p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zellicious.Zellicious"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zellicious.zellicious.github.io"/>
 </div>
-
-##
 
 # About
 
