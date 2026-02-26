@@ -2,11 +2,9 @@ title: Zellicious
 description: GitHub page for Zellicious
 url: "https://zellicious.github.io"
 
-remote_theme: jekyll/minima
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
 
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
-
-minima:
-  skin: dark
